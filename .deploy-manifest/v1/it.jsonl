@@ -506,7 +506,7 @@
 {"path":"cerca-lavoro-obvaldo/roadway-specialist-ffs-officine-ferrovie-federali-sarnen","hash":"d3161cfbb5d49d02c8ca33fc6a945801aff99322b542231ae9d3a9fba100f0ad"}
 {"path":"cerca-lavoro-obvaldo/sales-assistant-bakery-and-fresh-produce-coop-genossenschaft-schenkon","hash":"522448866fa68d86a538c846f198b924e9d441a3630d5719790f9bc1900847d2"}
 {"path":"cerca-lavoro-obvaldo/sales-assistant-cash-registers-services-jumbo-division-der-coop-genossenschaft-willisau","hash":"6f3784abad25165ddab8fc02c0c63c9042868722cdc8c566400744a233dcb0da"}
-{"path":"cerca-lavoro-obvaldo/sales-assistant-food-coop-genossenschaft-kerns","hash":"34ddf0845124a30bf02c8a5d917c6f1174757bf621c605757f176d2053e9384c"}
+{"path":"cerca-lavoro-obvaldo/sales-assistant-food-coop-genossenschaft-kerns","hash":"8b28eb49c9457b8e8f161da90cfe79a119454e78f2f1f5824c134f7152f237e2"}
 {"path":"cerca-lavoro-obvaldo/sales-assistant-food-coop-genossenschaft-kerns-m9pdrl","hash":"41dee5e7a4e3d35b724d47e92e0b18b92d927a63fac407f9f574af716468eda6"}
 {"path":"cerca-lavoro-obvaldo/sales-assistant-fresh-products-bakery-cheese-coop-genossenschaft-lenzburg","hash":"2d377de5eea6b7497df7c832c641ebf27ed76534d3a1f5e58b83b56fe6237a59"}
 {"path":"cerca-lavoro-obvaldo/sales-assistant-fresh-products-bakery-cheese-coop-genossenschaft-lenzburg-g5ihiu","hash":"499c06f53485454757096d059b5e1579b9cbb10c3b50c490a1f294a750d7e2eb"}
@@ -972,7 +972,7 @@
 {"path":"cerca-lavoro-obvaldo/trainee-deputy-manager-coop-genossenschaft-sarnen-rv8uku","hash":"875e2912b66042746b5baa1e44b804e711baf0af42bdde47ae0885234b1dbf3b"}
 {"path":"cerca-lavoro-obvaldo/trainee-deputy-manager-coop-genossenschaft-zug","hash":"6e2faf49db0e9f3fd6744d0457ac14a4b241f7bb9468e76af741ef85a2969597"}
 {"path":"cerca-lavoro-obvaldo/travailleurs-de-l-installation-et-du-controle-de-la-qualite-stellentreff-ag-sarnen-obwalden","hash":"c0f266b8d6cbec39d72d094af650d65ffddb31d1502687cb419473b48446f7f6"}
-{"path":"cerca-lavoro-obvaldo/unterhaltsfachmann-frau-von-gleisanlagen-ffs-officine-ferrovie-federali-sarnen","hash":"623400a48348e4f05eacc618acd238664b4b1c2a113b438caf9921956bb377cf"}
+{"path":"cerca-lavoro-obvaldo/unterhaltsfachmann-frau-von-gleisanlagen-ffs-officine-ferrovie-federali-sarnen","hash":"392197aff85871fe7fd68dc314d37621563bad4191e10fa12096b060294b3e0b"}
 {"path":"cerca-lavoro-obvaldo/vendeur-dans-la-nourriture-laiterie-coop-genossenschaft-engelberg","hash":"0849ee3456539340348375b9306f498324f854d8ca1eb7a535ba4cb67f7f90e4"}
 {"path":"cerca-lavoro-obvaldo/vendeur-de-poisson-coop-genossenschaft-sarnen-as3g14","hash":"6b71af76c0992088ad78f94ad36e818a4eaea506b9eee0786bf10a644dcd4b59"}
 {"path":"cerca-lavoro-obvaldo/vendeur-de-produits-frais-coop-genossenschaft-engelberg","hash":"22b8c4177287f93ff993b79a7a165ae070f167232a66843eaadabf2bcab889fe"}
@@ -1397,4 +1397,4 @@
 {"path":"cerca-lavoro-obvaldo/ricerca-vengono-sarnen-obwalden/","hash":"798e08c7e7e23d74048271ab4f3735558e438f8ab743f5cfd49823362d66cecb"}
 {"path":"cerca-lavoro-obvaldo/ricerca-viene-sarnen/","hash":"5c43073a43547f4e7ae4c1bdd4da558b7ae86999c26794382bd1e23a80e7f25b"}
 {"path":"cerca-lavoro-obvaldo/ricerca-volte-sarnen/","hash":"a14e7be897fc07bc325298b2b0653c2c94b2e9bd3da4221292a8018c6a3185ac"}
-{"type":"footer","counts":{"total":1394,"byKind":{"active-job":125,"expired-soft-landing":515,"legacy-slug-bridge":0,"previous-slugs-full-content":379,"cross-locale-reconciliation":0,"related-search-cluster":375,"related-search-sitemap":0}},"jobsSeoEmitterFingerprint":{"active-job":"a12d8e2072648cd01577b1d5f86a6dad78ce39a212df1a60fcfd654f55a5892a","cross-locale-reconciliation":"b2cbd88285ea904dcec16b8cfac0742051f228702be5c3cfac466e15c0d6ee62","expired-soft-landing":"48b56225db50b247b3b47924d8029690f7ce6883587f51ddbf3d9743cb5bc1c3","legacy-slug-bridge":"ee6b94c2ad9c4f097e196770b6090c4b6a7cc384d1c224b0f58b112d5c07f136","previous-slugs-full-content":"c956d656725ee9c3f41596f40438c7657cd2c642d4fa139bfb7bac2551a71f78"}}
+{"type":"footer","counts":{"total":1394,"byKind":{"active-job":125,"expired-soft-landing":515,"legacy-slug-bridge":0,"previous-slugs-full-content":379,"cross-locale-reconciliation":0,"related-search-cluster":375,"related-search-sitemap":0}},"jobsSeoEmitterFingerprint":{"active-job":"75fbc1b6724ef4d88b559c546233cb6fe96cbb4d3ad639bf450b600e89ee53b5","cross-locale-reconciliation":"f128856c36771b016f4aa569e8497d3f05cfba71ff5c74ed3cf071e7c5fe3585","expired-soft-landing":"9c91b3e901083d19d087021b3dfb28fd063872f9b4af78700ccbb5f657f51000","legacy-slug-bridge":"38f3b2c5b77ba75b2a5e820c2c85b817c01353aeac067e8d84113c368359e648","previous-slugs-full-content":"2faa502dd94d863452d69c6ada0bc366c279e1f8674ad4bb21d86d65b4b3b350"}}
